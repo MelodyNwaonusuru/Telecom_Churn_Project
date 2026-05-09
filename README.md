@@ -1,21 +1,26 @@
 **ConnectPlus Telecom — Project Background**
 
 **Overview**
+
 ConnectPlus Telecom is a California-based telecommunications provider serving residential customers across the state's major metropolitan areas, including Los Angeles, San Diego, San Jose, Sacramento, and San Francisco etc. The company offers a range of internet, phone, and billing services across multiple contract types, payment methods, and service tiers generating rich customer behavioural data that forms the foundation of this analysis.
 
 **Problem Statement**
+
 ConnectPlus Telecom was experiencing an elevated customer churn rate with limited analytical clarity on who was leaving, why they were leaving, and what commercial value was being lost as a result. Without a structured view of churn drivers whether rooted in contract structure, service type, tenure stage, or competitor pressure the business had no reliable basis for designing targeted retention strategies or prioritising interventions where they would have the greatest impact.
 
 **Project Objective**
+
 This project delivers a thorough diagnostic of ConnectPlus Telecom's customer base, with a primary focus on understanding churn behaviour and identifying the demographic, behavioural, and service-level patterns that most strongly predict customer exit. By translating raw transactional and customer data into clear, evidence-backed narratives, this project equips ConnectPlus leadership with the intelligence needed to reduce churn, protect revenue, and build a more loyal and commercially valuable customer base.
 
 **Key Areas of Analysis**
+
 1. **Customer Profile Overview**: A baseline understanding of the total customer base covering volume, gender distribution, city concentration, senior citizen representation, average tenure, and average charges to establish a clear commercial starting point.
 2. **Churn Rate Analysis**: A focused investigation into the churn rate across the business, identifying which customer segments, service types, contract structures, and payment behaviours carry the highest churn risk.
 3. **Internet Service & Payment Method Breakdown**: A cross-analysis of churn rates by internet service type and payment method, to identify whether specific product or billing configurations are systematically driving exit behaviour.
 4. **Churn Reason Deep Dive**: A granular review of stated churn reasons and associated lost revenue, identifying whether churn is primarily competitor-driven, service-quality-driven, or pricing-driven and what the business can realistically address.
 
 **Data Structure & Initial Checks**
+
 The ConnectPlus dataset was structured as a file containing 7,043 customer records across California, with each row representing one customer and their full service profile. Data cleaning and exploratory analysis were conducted in Microsoft Excel prior to dashboard development in Power BI.
 Cleaning steps performed in Excel included:
 
