@@ -56,6 +56,8 @@ It shows that a customer who survives the first year is nearly 7x more likely to
 
 To improve retention, the focus must shift toward matching competitor technical specs while simultaneously addressing the quality of customer interactions.
 
+![image alt](https://github.com/MelodyNwaonusuru/Telecom_Churn_Project/blob/main/Screenshot%202026-05-09%20103318.png?raw=true)
+
 **Recommendations**
 
 Strategic Priorities
