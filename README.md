@@ -56,8 +56,10 @@ It shows that a customer who survives the first year is nearly 7x more likely to
 
 To improve retention, the focus must shift toward matching competitor technical specs while simultaneously addressing the quality of customer interactions.
 
-Recommendations
+**Recommendations**
+
 Strategic Priorities
+
 **1. Financial Impact of Churn ($2.86M Lost)**
 $2.86M in lost revenue is not a metric to monitor — it is a mandate to act. Every retention initiative must be benchmarked against CLV recovery targets, not vanity engagement metrics, so the business can measure what it is actually winning back.
 
@@ -75,10 +77,16 @@ Nearly half of electronic check users are churning, and a significant portion of
 **5. Competition, Market Offers & Internal Friction**
 The business is losing customers from both ends external competitors are pulling them out while poor internal service experiences are pushing them toward the door. A customer who has already received a rival offer and contacted support is not a churned customer yet but they are close.
 
-Tools Used
-ToolPurpose
+**Tools Used**
+
+**Tool Purpose**
+
 Microsoft Excel : Data cleaning, deduplication, null handling, tenure band creation, exploratory data analysis (EDA)
+
 Power BI Desktop : Data modelling, DAX measure development, dashboard design and layout
+
 DAX Measures :Churn Rate %, Total Charges Churned, Average Churn Score, Customer Count by Segment, conditional formatting 
+
 logicPower Query (M): Data transformation, column structuring, data type enforcement
+
 Custom Calculated Columns : Tenure Band grouping (6 intervals), Churn flag validation, segment-level aggregations
