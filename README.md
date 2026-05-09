@@ -41,6 +41,9 @@ The cleaned dataset was then imported into Power BI for modelling and dashboard 
 6. Electronic check is the most commonly used payment method, with 2,365 customers, likely due to its convenience, ease of recurring bill payments, and the increasing preference for digital transaction methods among telecom subscribers.
 7. The highest customer concentration is within the 0–12 months tenure group (2,186 customers), followed by the 61–72 months group, showing a mix of newly acquired customers and long-term retained subscribers.
 
+The below is the dashboard of customer insights dashboard
+
+![image alt](https://github.com/MelodyNwaonusuru/Telecom_Churn_Project/blob/main/Screenshot%202026-05-09%20103032.png?raw=true)
 
 **Insight Deep Dive — Customer Churn & Retention Analysis** 
 
