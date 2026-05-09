@@ -29,8 +29,13 @@ Cleaning steps performed in Excel included:
 3. Created calculated columns including Tenure Band (bucketed into six intervals: 0–12, 13–24, 25–36, 37–48, 49–60, 61–72 months).
   
 You can download the cleaned dataset used in this project here:
-
 [⬇️ Download Telecom_Clean_dataset.xlsx](https://github.com/MelodyNwaonusuru/Telecom_Churn_Project/raw/refs/heads/main/Telecom_Clean_dataset.xlsx)
+
+Download the Power BI report file to explore the interactive dashboard:
+
+[⬇️ Download Telecom_Churn_Project.pbix](https://github.com/MelodyNwaonusuru/Telecom_Churn_Project/raw/main/Telecom_Churn_Project%20(2).pbix)
+
+> ⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
 
 
