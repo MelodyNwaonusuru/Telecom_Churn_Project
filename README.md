@@ -1,6 +1,6 @@
 📡 ConnectPlus Telecom — Customer Churn & Retention Analysis
 
-Power BI Project | 7,043 Customers | Raw Data ➝ Insights ➝ Strategy
+Excel + Power BI Project | 7,043 Customers | Raw Data ➝ Insights ➝ Strategy
 
 ## 📚 Table of Contents
 
